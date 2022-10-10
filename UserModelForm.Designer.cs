@@ -167,6 +167,7 @@
             this.txtMuserpassword.Name = "txtMuserpassword";
             this.txtMuserpassword.Size = new System.Drawing.Size(454, 20);
             this.txtMuserpassword.TabIndex = 9;
+            this.txtMuserpassword.UseSystemPasswordChar = true;
             // 
             // label4
             // 
@@ -201,6 +202,7 @@
             this.txtRepass.Name = "txtRepass";
             this.txtRepass.Size = new System.Drawing.Size(454, 20);
             this.txtRepass.TabIndex = 13;
+            this.txtRepass.UseSystemPasswordChar = true;
             // 
             // lblcommun
             // 

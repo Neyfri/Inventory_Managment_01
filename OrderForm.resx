@@ -178,7 +178,13 @@
   <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
+  <metadata name="Column9.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <metadata name="Column7.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column10.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <metadata name="Column2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -190,20 +196,6 @@
   <metadata name="Column8.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="Edit.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <data name="Edit.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAT1JREFUOE9j
-        oAlomLTwQtOURVcowSAzoMYxMFR0z/lPDQw1jgYGTlq0/v3uo2f/U4JBZkCNY2DYuPfY/f8UApAZUOOG
-        moGP3v6G00dvf8eLYWpBYPC7cO+Ji9SL5SsrVv+/kpn193Jw8BoMA0l14d6Du/+v3n70/8ZJc/5dj429
-        jWEgKeDx1TX/N22c+f/AuRv/V2w6+G9DRt5UDAOJceGRez//Hz225v+zy73//79b/H/9hln/F69a+Qts
-        GAiQ6sIHF5f9f3OjH2zYs4vd/5/d2kp+pJzd0fD/1dUuFMNAgCwDXz299f/kmsT/7271/X96ruX/k+vr
-        oTJoBnbPWd09ceH6Sfjwko17V3W35L17eaTu//FVcf92Lct/v3HfyaMwvOnAqV1Q44gHAYG+b5qKA3ct
-        bHA3gwqhAQYGADZeb0iQz3A5AAAAAElFTkSuQmCC
-</value>
-  </data>
   <metadata name="Delete.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
